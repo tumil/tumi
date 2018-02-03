@@ -1,2 +1,0 @@
-# tumi
-just for fun
